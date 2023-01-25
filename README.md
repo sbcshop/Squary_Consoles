@@ -19,4 +19,4 @@ Below are the iamges of how to combine more than one board via using provided se
 <img src ="https://github.com/sbcshop/Squary_Consoles/blob/main/images/Consoles%202.png" />
 
 
-***Note***UART communication interface can be establish in between head to head Squary boards as shown in the above images, but I2C communication can be establish among any board attached on Console.
+***Note*** UART communication interface can be establish in between ***head-to-head*** Squary boards as shown in the above images, but I2C communication interface can be establish among any boards attached on Console.

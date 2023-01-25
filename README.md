@@ -8,3 +8,13 @@ All SquaryFis
 Combination of any numbers of SquaryPi & SquaryFi
 
 
+## Combinations
+
+Below are the iamges of how to combine more than one board via using provided serial communication protocols. In this board we have provided two communication protocols one is I2C and other is UART communication protocols.
+
+<img src ="https://github.com/sbcshop/Squary_Consoles/blob/main/images/Consoles.png" />
+
+<img src ="https://github.com/sbcshop/Squary_Consoles/blob/main/images/Consoles%204.png" />
+
+<img src ="https://github.com/sbcshop/Squary_Consoles/blob/main/images/Consoles%202.png" />
+

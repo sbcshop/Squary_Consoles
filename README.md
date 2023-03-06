@@ -7,6 +7,8 @@ All SquaryPis
 All SquaryFis
 Combination of any numbers of SquaryPi & SquaryFi
 
+## Libraries
+Install Arduino_GFX_Library 
 
 ## Combinations
 
